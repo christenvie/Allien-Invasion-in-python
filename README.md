@@ -3,6 +3,8 @@ Alien invasion game in python using pygame
 
 
 
+
+
 1.Run the alien_invasion.py from the cmd 
 2. move the ship using the left and right key
 3. press the spacebar key to shoot bullets on the aliens
