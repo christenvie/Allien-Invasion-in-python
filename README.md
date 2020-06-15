@@ -1,8 +1,7 @@
 # Allien-Invasion-in-python
 Alien invasion game in python using pygame
 
-
-
+![](images/alien_invasion.JPG)
 
 
 1.Run the alien_invasion.py from the cmd 
