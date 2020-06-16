@@ -1,8 +1,16 @@
 # Allien-Invasion-in-python
 Alien invasion game in python using pygame
 
+
+
 ![](images/alien_invasion.JPG)
 
+
+
+Requirements :
+
+Python 3.8
+Pygame
 
 1.Run the alien_invasion.py from the cmd 
 
